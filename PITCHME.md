@@ -1,7 +1,7 @@
 @snap[north]
-# TypeScript & React
-#### Cesar Toscano
-#### @cesar_tweets
+# @size[1.5em](TypeScript & React)
+#### @size[1em](Cesar Toscano)
+#### @size[1em](@cesar_tweets)
 @snapend
 
 @snap[west span-50]
@@ -29,7 +29,7 @@ Frontend
 @title[Slide 2: But First...]
 
 @snap[north]
-## But First...
+## @size[1em](But First...)
 @snapend
 
 * I'm Hiring: TypeScript / React, Postgres DBA
@@ -50,7 +50,7 @@ Frontend
 
 @snap[west span-50]
 As a Startup
-* Iterate Quickly :|
+* Iterate Quickly
 * Rich Libraries (yarn)
 * Static Code Analysis (vscode)
 * Testability (jest, enzyme)
