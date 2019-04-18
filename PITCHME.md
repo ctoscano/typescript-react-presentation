@@ -1,6 +1,8 @@
+@snap[north]
 # TypeScript & React
 #### Cesar Toscano
 #### @cesar_tweets
+@snapend
 
 @snap[west span-50]
 Backend
@@ -26,7 +28,9 @@ Frontend
 ---
 @title[Slide 2: But First...]
 
+@snap[north]
 ## But First...
+@snapend
 
 * I'm Hiring: TypeScript / React, Postgres DBA
 * We are digitizing behavioral health
@@ -40,7 +44,9 @@ Frontend
 ---
 @title[Slide 3: ]
 
+@snap[north]
 ## Why TypeScript + React
+@snapend
 
 @snap[west span-50]
 As a Startup
@@ -61,7 +67,9 @@ As a Consultant
 ---
 @title[Slide 4: ]
 
+@snap[north]
 ## Pipelines
+@snapend
 
 @snap[west span-50]
 1. Write TypeORM entity
@@ -82,7 +90,9 @@ This yields Query Data and Mutations
 ---
 @title[Slide 5: ]
 
+@snap[north]
 ## Scenario: We need Content Management!
+@snapend
 
 @snap[west span-50]
 ![](assets/img/01-entity.png)
